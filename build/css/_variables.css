@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Dec 2022 00:57:03 GMT
+ * Generated on Thu, 15 Dec 2022 18:21:42 GMT
  */
 
 :root {
@@ -17,6 +17,20 @@
   --size-font-large: 2rem; /* the large size of the font */
   --size-font-base: 1rem; /* the base size of the font */
   --global-white: #ffffff;
-  --global-primary-500: #55e0d0;
-  --global-primary-700: #720a8a;
+  --global-black: #000000;
+  --global-gray-50: #f9fafb;
+  --global-gray-200: #e5e7eb;
+  --global-gray-300: #d1d5db;
+  --global-gray-400: #9ca3af;
+  --global-gray-500: #6b7280;
+  --global-gray-600: #4b5563;
+  --global-gray-800: #1f2937;
+  --global-gray-900: #111827;
+  --global-green-100: #d1fae5;
+  --global-green-600: #059669;
+  --global-green-800: #065F46;
+  --global-primary-400: #00cccc;
+  --global-primary-800: #047377;
+  --global-brand-400: #ff694a;
+  --global-success-text: #065F46;
 }

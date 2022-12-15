@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Dec 2022 18:36:25 GMT
+ * Generated on Thu, 15 Dec 2022 20:24:17 GMT
  */
 
 :root {
@@ -16,7 +16,10 @@
   --size-font-medium: 1rem; /* the medium size of the font */
   --size-font-large: 2rem; /* the large size of the font */
   --size-font-base: 1rem; /* the base size of the font */
-  --global-success-text: #065f46;
+  --global-error-button-text: #700000;
+  --global-error-button-background: #fff8f8;
+  --global-success-button-text-default: #065f46;
+  --global-success-button-background: #d1fae5;
   --global-palette-white: #ffffff;
   --global-palette-black: #000000;
   --global-palette-gray-50: #f9fafb;
@@ -33,4 +36,6 @@
   --global-palette-primary-400: #00cccc;
   --global-palette-primary-800: #047377;
   --global-palette-brand-400: #ff694a;
+  --global-palette-red-100: #fff8f8;
+  --global-palette-red-800: #700000;
 }

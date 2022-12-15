@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 20:24:17 GMT
+// Generated on Thu, 15 Dec 2022 20:48:36 GMT
 
 
 import UIKit
@@ -19,7 +19,7 @@ public enum StyleDictionaryEnum {
     public static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     public static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
     public static let globalErrorButtonBackground = #fff8f8
-    public static let globalErrorButtonText = #700000
+    public static let globalErrorButtonText = #f23333
     public static let globalPaletteBlack = #000000
     public static let globalPaletteBrand400 = #ff694a
     public static let globalPaletteGray200 = #e5e7eb
@@ -36,7 +36,8 @@ public enum StyleDictionaryEnum {
     public static let globalPalettePrimary400 = #00cccc
     public static let globalPalettePrimary800 = #047377
     public static let globalPaletteRed100 = #fff8f8
-    public static let globalPaletteRed800 = #700000
+    public static let globalPaletteRed500 = #f23333
+    public static let globalPaletteRed800 = #9d0000
     public static let globalPaletteWhite = #ffffff
     public static let globalSuccessButtonBackground = #d1fae5
     public static let globalSuccessButtonTextDefault = #065f46

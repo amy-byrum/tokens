@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 20:24:17 GMT
+// Generated on Thu, 15 Dec 2022 20:48:36 GMT
 
 
 import UIKit
@@ -19,7 +19,7 @@ internal struct StyleDictionaryStruct {
     internal static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     internal static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
     internal static let globalErrorButtonBackground = #fff8f8
-    internal static let globalErrorButtonText = #700000
+    internal static let globalErrorButtonText = #f23333
     internal static let globalPaletteBlack = #000000
     internal static let globalPaletteBrand400 = #ff694a
     internal static let globalPaletteGray200 = #e5e7eb
@@ -36,7 +36,8 @@ internal struct StyleDictionaryStruct {
     internal static let globalPalettePrimary400 = #00cccc
     internal static let globalPalettePrimary800 = #047377
     internal static let globalPaletteRed100 = #fff8f8
-    internal static let globalPaletteRed800 = #700000
+    internal static let globalPaletteRed500 = #f23333
+    internal static let globalPaletteRed800 = #9d0000
     internal static let globalPaletteWhite = #ffffff
     internal static let globalSuccessButtonBackground = #d1fae5
     internal static let globalSuccessButtonTextDefault = #065f46

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 18:27:20 GMT
+// Generated on Thu, 15 Dec 2022 18:36:25 GMT
 
 
 import UIKit
@@ -18,23 +18,23 @@ public enum StyleDictionaryEnum {
     public static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     public static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    public static let globalBlack = #000000
-    public static let globalBrand400 = #ff694a
-    public static let globalGray200 = #e5e7eb
-    public static let globalGray300 = #d1d5db
-    public static let globalGray400 = #9ca3af
-    public static let globalGray50 = #f9fafb
-    public static let globalGray500 = #6b7280
-    public static let globalGray600 = #4b5563
-    public static let globalGray800 = #1f2937
-    public static let globalGray900 = #111827
-    public static let globalGreen100 = #d1fae5
-    public static let globalGreen600 = #059669
-    public static let globalGreen800 = #3bd1a6
-    public static let globalPrimary400 = #00cccc
-    public static let globalPrimary800 = #047377
-    public static let globalSuccessText = #3bd1a6
-    public static let globalWhite = #ffffff
+    public static let globalPaletteBlack = #000000
+    public static let globalPaletteBrand400 = #ff694a
+    public static let globalPaletteGray200 = #e5e7eb
+    public static let globalPaletteGray300 = #d1d5db
+    public static let globalPaletteGray400 = #9ca3af
+    public static let globalPaletteGray50 = #f9fafb
+    public static let globalPaletteGray500 = #6b7280
+    public static let globalPaletteGray600 = #4b5563
+    public static let globalPaletteGray800 = #1f2937
+    public static let globalPaletteGray900 = #111827
+    public static let globalPaletteGreen100 = #d1fae5
+    public static let globalPaletteGreen600 = #059669
+    public static let globalPaletteGreen800 = #065f46
+    public static let globalPalettePrimary400 = #00cccc
+    public static let globalPalettePrimary800 = #047377
+    public static let globalPaletteWhite = #ffffff
+    public static let globalSuccessText = #065f46
     public static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     public static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */

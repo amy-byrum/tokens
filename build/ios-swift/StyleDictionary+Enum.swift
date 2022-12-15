@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 00:47:47 GMT
+// Generated on Thu, 15 Dec 2022 00:57:03 GMT
 
 
 import UIKit
@@ -18,8 +18,8 @@ public enum StyleDictionaryEnum {
     public static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     public static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    public static let globalCherry500 = #c03939
-    public static let globalCherry700 = #b71a1a
+    public static let globalPrimary500 = #55e0d0
+    public static let globalPrimary700 = #720a8a
     public static let globalWhite = #ffffff
     public static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */

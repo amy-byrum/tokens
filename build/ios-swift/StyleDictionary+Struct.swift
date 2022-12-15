@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 00:47:47 GMT
+// Generated on Thu, 15 Dec 2022 00:57:03 GMT
 
 
 import UIKit
@@ -18,8 +18,8 @@ internal struct StyleDictionaryStruct {
     internal static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     internal static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     internal static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    internal static let globalCherry500 = #c03939
-    internal static let globalCherry700 = #b71a1a
+    internal static let globalPrimary500 = #55e0d0
+    internal static let globalPrimary700 = #720a8a
     internal static let globalWhite = #ffffff
     internal static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     internal static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */

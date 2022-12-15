@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Dec 2022 18:21:42 GMT
+ * Generated on Thu, 15 Dec 2022 18:27:20 GMT
  */
 
 :root {
@@ -28,9 +28,9 @@
   --global-gray-900: #111827;
   --global-green-100: #d1fae5;
   --global-green-600: #059669;
-  --global-green-800: #065F46;
+  --global-green-800: #3bd1a6;
   --global-primary-400: #00cccc;
   --global-primary-800: #047377;
   --global-brand-400: #ff694a;
-  --global-success-text: #065F46;
+  --global-success-text: #3bd1a6;
 }

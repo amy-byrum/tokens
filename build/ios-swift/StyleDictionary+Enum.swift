@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 18:21:42 GMT
+// Generated on Thu, 15 Dec 2022 18:27:20 GMT
 
 
 import UIKit
@@ -30,10 +30,10 @@ public enum StyleDictionaryEnum {
     public static let globalGray900 = #111827
     public static let globalGreen100 = #d1fae5
     public static let globalGreen600 = #059669
-    public static let globalGreen800 = #065F46
+    public static let globalGreen800 = #3bd1a6
     public static let globalPrimary400 = #00cccc
     public static let globalPrimary800 = #047377
-    public static let globalSuccessText = #065F46
+    public static let globalSuccessText = #3bd1a6
     public static let globalWhite = #ffffff
     public static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */

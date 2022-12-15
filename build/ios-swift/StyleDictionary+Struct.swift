@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Dec 2022 18:21:42 GMT
+// Generated on Thu, 15 Dec 2022 18:27:20 GMT
 
 
 import UIKit
@@ -30,10 +30,10 @@ internal struct StyleDictionaryStruct {
     internal static let globalGray900 = #111827
     internal static let globalGreen100 = #d1fae5
     internal static let globalGreen600 = #059669
-    internal static let globalGreen800 = #065F46
+    internal static let globalGreen800 = #3bd1a6
     internal static let globalPrimary400 = #00cccc
     internal static let globalPrimary800 = #047377
-    internal static let globalSuccessText = #065F46
+    internal static let globalSuccessText = #3bd1a6
     internal static let globalWhite = #ffffff
     internal static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     internal static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
